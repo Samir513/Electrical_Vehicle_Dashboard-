@@ -5,7 +5,7 @@
 
 ---
 
-## 🎯 Problem Statement ([PPTX](Data/Problem%20Statement.pptx))
+## 🎯 Problem Statement 
 
 With the rapid growth of electric vehicle adoption globally, stakeholders—including policymakers, manufacturers, and environmental agencies—need clear insights into:
 
@@ -24,7 +24,7 @@ With the rapid growth of electric vehicle adoption globally, stakeholders—incl
 - Implemented interactive filtering for enhanced user experience
 
 
-## [📊 The Data](Data/Electric_Vehicle_Population_Data.csv)
+## 📊 The Data
 
 - **Total Records:** 150,420 electric vehicles
 - **Time Period:** 2015–2025 (includes projections)
